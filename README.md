@@ -32,3 +32,6 @@ https://www.youtube.com/playlist?list=PLbzVx6CGClTE0ugAi6M0xV0JqFDw_W6Pm
 
 Решения от Михаила Проходцева, платно но недорого:
 https://spec-exam.ru/
+
+группа Михаила в телеге - билеты, поддержка, советы, сообщество, Лосяш - оч полезно.
+t.me/spec1c
