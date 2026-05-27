@@ -40,3 +40,6 @@ https://spec-exam.ru/
 
 группа Михаила в телеге - Лосяш, билеты, поддержка, советы, сообщество, оч полезно:
 https://t.me/spec1c
+
+Описание системы 1С Гуру
+https://www.youtube.com/watch?v=danwF-xjClI
